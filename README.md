@@ -9,6 +9,8 @@ For more information please see [the website][1].
 Download
 --------
 
+Following download/repo options are for future release 1.0.0-prealpha1. May not work for now.
+
 Download [the latest JAR][2] or grab via Maven:
 ```xml
 <dependency>
