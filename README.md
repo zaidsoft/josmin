@@ -26,7 +26,7 @@ compile 'com.zaidsoft.josmin:josmin:1.0.0-prealpha1'
 
 Snapshots of the development version are available in [Sonatype's `snapshots` repository][snap].
 
-josmin requires at minimum Java 7 or Android 2.3.
+josmin requires at minimum Java 7
 
 
 
